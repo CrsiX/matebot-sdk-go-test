@@ -1,4 +1,4 @@
-package MateBotSDKGo
+package matebotsdk
 
 type Error struct {
 	IsError bool   `json:"error"`

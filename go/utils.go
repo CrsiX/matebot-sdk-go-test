@@ -1,4 +1,4 @@
-package MateBotSDKGo
+package matebotsdk
 
 import (
 	"errors"

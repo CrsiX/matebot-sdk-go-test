@@ -1,4 +1,4 @@
-package MateBotSDKGo
+package matebotsdk
 
 type IdBody struct {
 	Id uint `json:"id"`
